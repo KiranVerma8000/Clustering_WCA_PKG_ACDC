@@ -1,0 +1,72 @@
+{
+    "a2a_metric_acdc.json": {
+        "DMM Unit Complexity": {
+            "correlation_coefficient": 0.23570499451765037,
+            "p_value": 0.20987482386026057
+        },
+        "DMM Unit Size": {
+            "correlation_coefficient": 0.423497145855204,
+            "p_value": 0.01970176768751433
+        },
+        "DMM Unit Interfacing": {
+            "correlation_coefficient": 0.23841118330295843,
+            "p_value": 0.2045357947501249
+        }
+    },
+    "a2a_metric_limbo.json": {
+        "DMM Unit Complexity": {
+            "correlation_coefficient": 0.2934415970652008,
+            "p_value": 0.07376556301937565
+        },
+        "DMM Unit Size": {
+            "correlation_coefficient": 0.4035441451198924,
+            "p_value": 0.011992028462384502
+        },
+        "DMM Unit Interfacing": {
+            "correlation_coefficient": 0.20157188009547544,
+            "p_value": 0.22491258540958048
+        }
+    },
+    "a2a_metric_pkg.json": {
+        "DMM Unit Complexity": {
+            "correlation_coefficient": 0.3737773233838076,
+            "p_value": 0.02079734533912645
+        },
+        "DMM Unit Size": {
+            "correlation_coefficient": 0.3407103927251117,
+            "p_value": 0.03633077255587133
+        },
+        "DMM Unit Interfacing": {
+            "correlation_coefficient": 0.176875707866827,
+            "p_value": 0.28809211563402093
+        }
+    },
+    "a2a_metric_uca_uemnm.json": {
+        "DMM Unit Complexity": {
+            "correlation_coefficient": -0.04378144058964587,
+            "p_value": 0.7940952810556042
+        },
+        "DMM Unit Size": {
+            "correlation_coefficient": 0.2511117834758167,
+            "p_value": 0.12832706830293664
+        },
+        "DMM Unit Interfacing": {
+            "correlation_coefficient": 0.11561087339128075,
+            "p_value": 0.48944645106846296
+        }
+    },
+    "a2a_metric_wca_uem.json": {
+        "DMM Unit Complexity": {
+            "correlation_coefficient": 0.3814952793878662,
+            "p_value": 0.018113219242413978
+        },
+        "DMM Unit Size": {
+            "correlation_coefficient": 0.3483372983246843,
+            "p_value": 0.032097361657056955
+        },
+        "DMM Unit Interfacing": {
+            "correlation_coefficient": 0.17244161488274953,
+            "p_value": 0.30054157420744565
+        }
+    }
+}

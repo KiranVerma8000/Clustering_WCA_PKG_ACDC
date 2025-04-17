@@ -1,0 +1,102 @@
+{
+    "cvg_metric_acdc.json": {
+        "Test Statistic": "NaN",
+        "p-value": "NaN",
+        "Gaussian": false
+    },
+    "cvg_metric_limbo.json": {
+        "Test Statistic": 0.6663955469101901,
+        "p-value": 1.6975642786490624e-09,
+        "Gaussian": true
+    },
+    "cvg_metric_pkg.json": {
+        "Test Statistic": 0.12365392683152021,
+        "p-value": 7.720622735047172e-16,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uem.json": {
+        "Test Statistic": 0.12365392683152021,
+        "p-value": 7.720622735047172e-16,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uemnm.json": {
+        "Test Statistic": 0.2490657110570199,
+        "p-value": 1.0560739933584053e-14,
+        "Gaussian": true
+    },
+    "cvg_metric_ACDC output_vs_limbo_outputs.json": {
+        "Test Statistic": 1.0,
+        "p-value": 1.0,
+        "Gaussian": false
+    },
+    "cvg_metric_ACDC output_vs_wca_uem_output.json": {
+        "Test Statistic": 0.5296000260680237,
+        "p-value": 2.37125225418234e-16,
+        "Gaussian": true
+    },
+    "cvg_metric_pkg_outputs_vs_ACDC output.json": {
+        "Test Statistic": "NaN",
+        "p-value": "NaN",
+        "Gaussian": false
+    },
+    "cvg_metric_pkg_outputs_vs_limbo_outputs.json": {
+        "Test Statistic": 1.0,
+        "p-value": 1.0,
+        "Gaussian": false
+    },
+    "cvg_metric_pkg_outputs_vs_wca_uem_output.json": {
+        "Test Statistic": 0.6185584084070279,
+        "p-value": 9.825602513520478e-15,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uemnm_output_vs_ACDC output.json": {
+        "Test Statistic": "NaN",
+        "p-value": "NaN",
+        "Gaussian": false
+    },
+    "cvg_metric_wca_uemnm_output_vs_limbo_outputs.json": {
+        "Test Statistic": 0.4536831971389751,
+        "p-value": 1.4587492872805472e-17,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uemnm_output_vs_pkg_outputs.json": {
+        "Test Statistic": 0.6320381827435273,
+        "p-value": 1.8224429244782732e-14,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uemnm_output_vs_wca_uem_output.json": {
+        "Test Statistic": 0.4663162238778048,
+        "p-value": 2.272265171844838e-17,
+        "Gaussian": true
+    },
+    "cvg_metric_wca_uem_output_vs_limbo_outputs.json": {
+        "Test Statistic": 0.36127237194704376,
+        "p-value": 7.057089553768293e-19,
+        "Gaussian": true
+    },
+    "a2a_metric_acdc.json": {
+        "Test Statistic": "NaN",
+        "p-value": "NaN",
+        "Gaussian": false
+    },
+    "a2a_metric_limbo.json": {
+        "Test Statistic": 0.6634308676489495,
+        "p-value": 1.5133394136866957e-09,
+        "Gaussian": true
+    },
+    "a2a_metric_pkg.json": {
+        "Test Statistic": 0.46985577328048667,
+        "p-value": 2.5959750420156072e-12,
+        "Gaussian": true
+    },
+    "a2a_metric_uca_uemnm.json": {
+        "Test Statistic": 0.2114684622539057,
+        "p-value": 4.6705147785243664e-15,
+        "Gaussian": true
+    },
+    "a2a_metric_wca_uem.json": {
+        "Test Statistic": 0.4767866785299304,
+        "p-value": 3.162531598003618e-12,
+        "Gaussian": true
+    }
+}
